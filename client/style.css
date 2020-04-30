@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 10em;
+    align-items: center;
+    flex-direction: column;
+}
+.low {
+    color: red
+}
+.high {
+    color: red
+}
+.correct {
+    color: green
+}
