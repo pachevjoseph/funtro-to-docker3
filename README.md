@@ -1,2 +1,4 @@
-# funtro-to-docker3
-A sample broken up to demonstrate docker-compose
+# Funtro To Docker 3
+
+A sample broken up application to demonstrate docker-compose and networking
+
